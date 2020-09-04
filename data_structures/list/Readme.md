@@ -1,4 +1,4 @@
-# Stack impementation
+# List impementation
 
 [![N|Solid](https://www.codeproject.com/KB/cpp/linked_list/image006.gif)](http://www.cplusplus.com/reference/list/list/)
 
